@@ -1,0 +1,6 @@
+Model/Product.java
+ Model.Product
+Controller/Controller.java
+ Controller.Controller
+Service/ProductStorage.java
+ Service.ProductStorage
